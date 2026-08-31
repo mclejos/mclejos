@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mark+Christian!;3rd-Year+IT+Student+%40+PUP;Full-Stack+Developer;Network+Engineering+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mark+Christian!;3rd-Year+IT+Student+%40+PUP;Full-Stack+Developer;Network+Engineering+Enthusiast" alt="Typing Animation" />
 </div>
 
 <h2 align="center">Iskolar ng Bayan</h2>
@@ -41,21 +41,18 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mclejos&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mclejos&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mclejos&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mclejos&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
 ---
 
 ## Connect
 
 <div align="center">
-  <a href="https:https://www.linkedin.com/in/mark-christian-alejos-230a2734b/ target="_blank">
+  <a href="https://www.facebook.com/mark.christian.alejos/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/mark-christian-alejos-230a2734b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejosmarkchristian@gmail.com">
