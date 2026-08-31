@@ -41,22 +41,21 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mclejos&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mclejos&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mclejos&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mclejos&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mclejos&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mclejos&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
-
 ---
 
 ## Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a" target="_blank">
+  <a href="https:https://www.linkedin.com/in/mark-christian-alejos-230a2734b/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejosmarkchristian@gmail.com">
