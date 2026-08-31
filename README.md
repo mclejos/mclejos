@@ -59,3 +59,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mclejos&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+</div>
