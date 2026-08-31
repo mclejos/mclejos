@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabriel+Martin!+%F0%9F%91%8B;3rd-Year+IT+Student+%40+PUP;Full-Stack+Developer;Network+Engineering+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mark+Christian!+%F0%9F%91%8B;3rd-Year+IT+Student+%40+PUP;Full-Stack+Developer;Network+Engineering+Enthusiast" alt="Typing Animation" />
 </div>
 
 <h2 align="center">🎓 Iskolar ng Bayan</h2>
