@@ -3,16 +3,25 @@
 
 ## Iskolar ng Bayan
 
-Bridging the gap between robust network infrastructure and seamless user experiences.
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="YOUR_ASCII_ART_OR_IMAGE_URL" width="100%" alt="Mark Christian" />
+    </td>
+    <td width="62%" valign="top">
+      <h1>Mark Christian</h1>
+      <hr>
+      <p><em>Iskolar ng Bayan</em></p>
+      <p>
+        BS Information Technology student at the Polytechnic University of the Philippines, passionate about <strong>network engineering</strong>, <strong>full-stack development</strong>, and <strong>system architecture</strong>.
+      </p>
 
----
 
-**About Me**
-* **Academic Status:** 3rd-year BS Information Technology student at the Polytechnic University of the Philippines.
-* **Current Focus:** Deepening knowledge in React, modern JavaScript frameworks, and enterprise network design.
-* **Goal:** Seeking an IT internship to apply skills in software development, data analysis, and system architecture to real-world problems.
-* **Background:** Focused on building full-stack applications and troubleshooting network environments.
-
+# mclejos@github ~ % fetch
+role: 3rd-Year BSIT Student @ PUP
+focus: Enterprise Network Infrastructure & Web Development
+learning: React, Advanced JavaScript, Cisco Packet Tracer, and Cloud Fundamentals
+open_to: IT Internships, full-stack projects, and network architecture collaborations
 ---
 
 **Tech Stack & Tools**
